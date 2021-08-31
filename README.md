@@ -39,13 +39,14 @@
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...
 
 ```javascript
-const angel = {
-    pronouns: "he" | "him",
-    code: [HTML, CSS, SASS, Javascript, Typescript, jQuery, Php, SQL,Ajax,Fetch],
-    tools: [Next, Node, Webpack, Styled - Components],
-    architecture: ["MVC", "microservices", "event-driven", "design system pattern"],
-    challenge: "I'm doing the #100DaysCss challenge focused on improving my code."
-}
+$angel = array(
+    "pronouns" => "he, him",
+    "code" => "HTML, CSS, SASS, Javascript, Typescript, jQuery, Php, SQL, Ajax, Fetch",
+    "tools" => "Next, Node, Webpack, Styled - Components",
+    "architecture" => "MVC, microservices, design system pattern",
+    "challenge" => "I'm doing the #100DaysCss challenge focused on improving my code."
+);
+return json_encode($angel,true);
 ```
 
 <p align="center">
