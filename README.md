@@ -32,6 +32,7 @@
   ![](https://img.shields.io/badge/Framework-NODE-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
 
 <img align="left" src="https://media.giphy.com/media/1VT3UNeWdijUSMpRL4/giphy.gif?cid=ecf05e47xkd1kdjhmknhvubwugykk9ik6hr75hbf3zvrfo2t&rid=giphy.gif&ct=g" width="200">
 
@@ -60,6 +61,9 @@ const angel = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalOcean" width="25" height="25" />
 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Collaboration_logo_V2.svg" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em>
